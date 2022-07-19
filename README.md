@@ -1,4 +1,4 @@
-# WeatherPy
+# World-Weather-Analysis
 
 ## Overview of the project
 
